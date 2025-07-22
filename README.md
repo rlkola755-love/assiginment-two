@@ -1,12 +1,19 @@
-# Project Name
+# Assignement 2 Module 2: 
+Conquering HTML 
 
-A brief description of what your project does and who it's for.
+Simple code to how and understanding of basic HTML.
+Imformation used is from learned infromation from the module and personal research.
 
 ## Features
 
-- Feature 1 RED & BLUE
-- Feature 2
-- Feature 3
+-Header
+-Navigation list
+-Sections on the navigation list include hobbies, gallary, contact information
+-A footer with a copyright icon
+
+Home page includes an image of my self and a pharagragh/ summary about what I like.
+
+
 
 ## Installation
 
